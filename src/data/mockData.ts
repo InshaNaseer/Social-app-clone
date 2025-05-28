@@ -3,8 +3,8 @@ import { Post, Story, User } from "../types";
 export const users: User[] = [
   {
     id: "1",
-    username: "insha-fiya",
-    fullName: "Insha Fiya",
+    username: "jane_doe",
+    fullName: "Jane Doe",
     profileImage:
       "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600",
     bio: "Photographer | Traveler | Coffee Lover",
